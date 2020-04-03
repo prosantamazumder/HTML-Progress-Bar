@@ -7,19 +7,20 @@
 
 <pre><code>
 &lt;!--Skill Box--&gt;
+
 &lt;div class="progress-box wow"&gt;
-		&lt;div class="choose-text"&gt;
-			&lt;h6&gt;REACT JS&lt;/h6&gt;
-			&lt;p&gt;Pellentesque aliquam praesent nam ipanplaat cras sed a tristique morbi.&lt;/p&gt;
-				&lt;/div&gt;
-				&lt;div class="inner"&gt;
-					&lt;div class="bar"&gt;
-					&lt;div class="bar-innner"&gt;
-					&lt;div class="bar-fill" data-percent="35"&gt;
-					&lt;span class="number"&gt;35%&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-		&lt;/div&gt;
+	&lt;div class="choose-text"&gt;
+	&lt;h6&gt;REACT JS&lt;/h6&gt;
+	&lt;p&gt;Pellentesque aliquam praesent nam ipanplaat cras sed a tristique morbi.&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class="inner"&gt;
+	&lt;div class="bar"&gt;
+	&lt;div class="bar-innner"&gt;
+	&lt;div class="bar-fill" data-percent="35"&gt;
+	&lt;span class="number"&gt;35%&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 </code></pre>
